@@ -6,7 +6,7 @@
         <div id="right"></div>
         <div id="top"></div>
         <div id="bottom"></div>
-        <b-navbar-item id="fontnavbar" class="title is-2" style="color:darkblue;">
+        <b-navbar-item id="fontnavbar" class="title is-2" style="color:red;">
           Milligram
         </b-navbar-item>
       </template>
